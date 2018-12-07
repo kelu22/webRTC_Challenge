@@ -15,7 +15,7 @@ One important thing is that every phone number that is taking place in this appl
 
 We also need a publicy accessible web server so Nexmo can make webhook requests to your app. If you're developing locally you must use a tool such as ngrok. Then, we launch this server at the port we want:
 
-[Image of the functional server running]
+<img width="567" alt="screen shot 2018-12-07 at 4 24 32 pm" src="https://user-images.githubusercontent.com/6637058/49675761-9d5e8800-fa3c-11e8-9e84-b9bd2adc0741.png">
 
 Then we use npm to install nexmo, the REST API client for Node.js in your working directory:    
                                                 

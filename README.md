@@ -7,7 +7,9 @@ In this application, a phone number sends a customizable SMS to a Nexmo virtual 
 
 The user in the group can send an SMS back to the initial sender or press a key for answering, and the original number will receive all the answers in a SMS. Here in this diagram provided by webRT.ventures you can see the sequence diagram:
 
-<img width="631" align="center" alt="screen shot 2018-12-07 at 4 09 55 pm" src="https://user-images.githubusercontent.com/6637058/49675706-6e481680-fa3c-11e8-8c6f-9cc9b724137a.png">
+<p align="center">
+<img width="631" alt="screen shot 2018-12-07 at 4 09 55 pm" src="https://user-images.githubusercontent.com/6637058/49675706-6e481680-fa3c-11e8-8c6f-9cc9b724137a.png">
+</p>
 
 ## Dependencies installation and previous steps
 
@@ -15,7 +17,9 @@ One important thing is that every phone number that is taking place in this appl
 
 We also need a publicy accessible web server so Nexmo can make webhook requests to your app. If you're developing locally you must use a tool such as ngrok. Then, we launch this server at the port we want:
 
-<img width="567" align="center" alt="screen shot 2018-12-07 at 4 24 32 pm" src="https://user-images.githubusercontent.com/6637058/49675761-9d5e8800-fa3c-11e8-9e84-b9bd2adc0741.png">
+<p align="center">
+<img width="567" alt="screen shot 2018-12-07 at 4 24 32 pm" src="https://user-images.githubusercontent.com/6637058/49675761-9d5e8800-fa3c-11e8-9e84-b9bd2adc0741.png">
+</p>
 
 Then we use npm to install nexmo, the REST API client for Node.js in your working directory:    
                                                 

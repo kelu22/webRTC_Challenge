@@ -7,7 +7,7 @@ In this application, a phone number sends a customizable SMS to a Nexmo virtual 
 
 The user in the group can send an SMS back to the initial sender or press a key for answering, and the original number will receive all the answers in a SMS. Here in this diagram provided by webRT.ventures you can see the sequence diagram:
 
-[Diagram]
+<img width="631" alt="screen shot 2018-12-07 at 4 09 55 pm" src="https://user-images.githubusercontent.com/6637058/49675706-6e481680-fa3c-11e8-8c6f-9cc9b724137a.png">
 
 ## Dependencies installation and previous steps
 

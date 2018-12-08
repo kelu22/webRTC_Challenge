@@ -31,4 +31,3 @@ In our index.js file, we will have to indicate our YOUR_API_KEY and YOUR_API_SEC
 
 Lastly, we have to indicate the port we chose for the ngrok server in the index.js file for the application to listen.
 
-## Demostration of the working application
